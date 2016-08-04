@@ -1,2 +1,1 @@
-# pspecora.github.io
-iX 
+# general
